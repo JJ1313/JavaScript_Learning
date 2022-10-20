@@ -1,0 +1,22 @@
+body {
+  background-color: #f59dd0;
+  color: #29099c;
+}
+
+header {
+  background-color: #29099c;
+}
+
+#mainNav {
+  margin-top: 0;
+  position: fixed;
+  background-color: #29099c;
+}
+
+.navMainElement {
+  text-decoration: none;
+}
+
+.cacaca {
+  padding-top: 40px;
+}/*# sourceMappingURL=style.css.map */

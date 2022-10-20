@@ -1,0 +1,21 @@
+$bg-color: #f59dd0; 
+$letter-color: #29099c;
+
+body{
+    background-color: $bg-color;
+    color: $letter-color;
+}
+header{
+    background-color: #29099c;
+}
+#mainNav{
+    margin-top: 0;
+    position: fixed;
+    background-color: #29099c;
+}
+.navMainElement{
+    text-decoration: none;
+}
+.cacaca{
+    padding-top: 40px;
+}
